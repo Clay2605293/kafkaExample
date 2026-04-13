@@ -1,4 +1,4 @@
-package com.lta.backend.resources;
+package com.lta.backend.controller;
 
 import com.lta.backend.services.StringProducerService;
 import org.springframework.beans.factory.annotation.Autowired;
